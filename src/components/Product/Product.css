@@ -3,7 +3,7 @@
     width: 312px;
     height: 540px;
     border-radius: 8px;
-    margin: 104px 0 10px 150px;
+    /* margin: 104px 0 10px 150px; */
     position: relative;
 }
 .product-container img{
