@@ -1,3 +1,5 @@
 .cartCompo-container{
     padding-left: 15px;
+    position: sticky;
+    top: 10px;
 }
